@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript, Typescript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/szymon-blazynski/**
+- 📫 How to reach me **sz.blazynski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
