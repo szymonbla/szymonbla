@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Szymon Blazynski</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [dompodsnieznikiem](https://github.com/szymonbla/dompodsnieznikiem)
+- 🔭 I’m currently working on [TheDailySpace](https://github.com/szymonbla/TheDailySpace.LandingPage)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Astro**
 
 - 💬 Ask me about **React, JavaScript, Typescript**
 
