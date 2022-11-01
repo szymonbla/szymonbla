@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon Blazynski</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [TheDailySpace](https://github.com/szymonbla/TheDailySpace.LandingPage)
+- 🔭 I’m currently working on [SolarPlus](https://github.com/szymonbla/SolarPlus)
 
 - 🌱 I’m currently learning **Astro**
 
